@@ -1,3 +1,5 @@
 = T61
 
 *OS:* Debian 10 Buster
+*Window Manager:* Emacs X Window Manager (EXWM)
+*Emacs Distribution:* Spacemacs
