@@ -1,2 +1,3 @@
 = T61
 
+*OS:* Debian 10 Buster
