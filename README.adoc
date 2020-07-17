@@ -6,4 +6,8 @@
 
 *Emacs Distribution:* Spacemacs
 
-*Shell:* Closh
+//*Shell:* 
+
+*Browser:* Nyxt
+
+
