@@ -1,0 +1,5 @@
+export EDITOR='emacsclient -t'
+export VISUAL='emacsclient -t'
+alias vi='emacsclient -t'
+alias vim='emacsclient -t'
+alias nano='emacsclient -t'
